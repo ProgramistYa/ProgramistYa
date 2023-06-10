@@ -8,7 +8,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://yt3.ggpht.com/a/AATXAJx4z2EHXiCY_jSH3GfNjUieSqbc-VpUm97xGQ=s900-c-k-c0xffffffff-no-rj-mo"></code>
-<code><img height="20" src="https://image.winudf.com/v2/image1/cnUubnBva3Jpc3RhbC5naXQuY29ycF9zY3JlZW5fOF8xNjY3MzUyNzA4XzA4MQ/screen-8.jpg?fakeurl=1&type=.jpg"></code>
+<code><img height="20" src="https://carpentries-incubator.github.io/open-science-with-r/img/07-git-logo.gif"></code>
 <code><img height="20" src="https://unimys.com/wp-content/uploads/2020/09/img_5f5256933a018.png"></code>
 <code><img height="20" src="https://img.youtube.com/vi/0x8hPMr_YFo/0.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
