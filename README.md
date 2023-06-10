@@ -8,6 +8,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://image.emojisky.com/115/11761115-middle.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://unimys.com/wp-content/uploads/2020/09/img_5f5256933a018.png"></code>
 <code><img height="20" src="https://img.youtube.com/vi/0x8hPMr_YFo/0.jpg"></code>
