@@ -19,6 +19,8 @@
 ### Contact me:
 [![VK Badge](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yakudzamen)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197998663564/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/intelligent_s)
+
 
 
 <img align='left' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
