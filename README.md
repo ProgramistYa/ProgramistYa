@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style=monkidyy>
+  <p>Привет</p>
+  </div>
 monkindey { 
   position: Hángzhōu; 
   height: 171cm; 
