@@ -1,6 +1,4 @@
-### Hi there 👋
-
-🔭 Hello, I am Alexander, a beginner back-end developer.
+### 👋 Hello, I am Alexander, a beginner back-end developer.
 
 
 
