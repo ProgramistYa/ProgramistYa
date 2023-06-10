@@ -1,6 +1,6 @@
 ## <img align='center' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I am Alexander, a beginner back-end developer.
 ## Skills:
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width='20' />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width='100' />
 - 👨‍💻 Python , Projects on Django3
 - 💽 PostgreSql, SQL, DBeaver
 - 👁️ HTML, CSS
