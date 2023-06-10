@@ -1,10 +1,12 @@
 ## <img align='center' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I am Alexander, a beginner back-end developer.
 ## Skills:
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width='100' />
 - 👨‍💻 Python , Projects on Django3
 - 💽 PostgreSql, SQL, DBeaver
 - 👁️ HTML, CSS
 - ⚙️ I write code for  [PyCharm Professional Edition](https://www.jetbrains.com/pycharm/)
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width='150' />
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
