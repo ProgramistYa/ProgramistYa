@@ -13,7 +13,7 @@
 <code><img height="20" src="https://img.youtube.com/vi/0x8hPMr_YFo/0.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png"></code>
 
 
 ### Contact me:
