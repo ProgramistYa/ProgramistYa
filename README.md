@@ -9,7 +9,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://yt3.ggpht.com/a/AATXAJx4z2EHXiCY_jSH3GfNjUieSqbc-VpUm97xGQ=s900-c-k-c0xffffffff-no-rj-mo"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="20" src="https://unimys.com/wp-content/uploads/2020/09/img_5f5256933a018.png"></code>
 <code><img height="20" src="https://img.youtube.com/vi/0x8hPMr_YFo/0.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
