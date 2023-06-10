@@ -18,7 +18,7 @@
 
 ### Contact me:
 [![VK Badge](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yakudzamen)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yakudza327@mail.ru)
+[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197998663564/)
 
 
 <img align='left' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
