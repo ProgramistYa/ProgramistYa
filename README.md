@@ -1,8 +1,8 @@
 ## <img align='center' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I am Alexander, a beginner back-end developer.
 ## Skills:
 - 👨‍💻 Python , Projects on Django3
-- 👁️ HTML, CSS
 - 💽 PostgreSql, SQL, DBeaver
+- 👁️ HTML, CSS
 - ⚙️ I write code for  [PyCharm Professional Edition](https://www.jetbrains.com/pycharm/)
 
 ### Contact me:
