@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 🔭 Hello, I am Alexander, a beginner back-end developer.
-<img align='centr' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
+
+<img align='left' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <!--
 ✨
 - 🔭 Hello, I am Alexander, a beginner back-end developer.
