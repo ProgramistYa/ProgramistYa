@@ -1,11 +1,11 @@
-### <img align='center' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I am Alexander, a beginner back-end developer.
+# <img align='center' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I am Alexander, a beginner back-end developer.
 ## Skills:
 - 👨‍💻 Python
 - 👁️ HTML, CSS
 - 💽 PostgreSql, SQL, DBeaver
 - ⚙️ I write code for  [PyCharm Professional Edition](https://www.jetbrains.com/pycharm/)
 
-# Contact me:
+### Contact me:
 
 
 
